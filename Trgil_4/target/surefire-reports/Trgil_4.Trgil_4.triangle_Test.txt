@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Trgil_4.Trgil_4.triangle_Test
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.116 s -- in Trgil_4.Trgil_4.triangle_Test
